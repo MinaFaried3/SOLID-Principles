@@ -1,1 +1,1 @@
-"# SOLID-Principles"  
+# SOLID-Principles
