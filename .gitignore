@@ -1,0 +1,6 @@
+*.exe
+.vscode
+tempCodeRunnerFile.cpp
+*tempCodeRunnerFile.cpp
+*tempCodeRunnerFile.dart
+tempCodeRunnerFile.dart
