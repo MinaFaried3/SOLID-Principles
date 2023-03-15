@@ -34,3 +34,9 @@ class ShapeDrawer {
     shape.draw();
   }
 }
+
+void main(List<String> args) {
+  Rectangle rec = Rectangle(width: 23, length: 4);
+  ShapeDrawer drawer = ShapeDrawer();
+  drawer.drawShape(rec);
+}
